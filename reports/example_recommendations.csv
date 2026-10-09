@@ -1,0 +1,21 @@
+rank,movieId,title,genres,model
+1,1610,"Hunt for Red October, The (1990)",Action|Adventure|Thriller,SVD
+2,293,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller,SVD
+3,1234,"Sting, The (1973)",Comedy|Crime,SVD
+4,48516,"Departed, The (2006)",Crime|Drama|Thriller,SVD
+5,2194,"Untouchables, The (1987)",Action|Crime|Drama,SVD
+6,2944,"Dirty Dozen, The (1967)",Action|Drama|War,SVD
+7,1220,"Blues Brothers, The (1980)",Action|Comedy|Musical,SVD
+8,2115,Indiana Jones and the Temple of Doom (1984),Action|Adventure|Fantasy,SVD
+9,48780,"Prestige, The (2006)",Drama|Mystery|Sci-Fi|Thriller,SVD
+10,5989,Catch Me If You Can (2002),Crime|Drama,SVD
+1,1610,"Hunt for Red October, The (1990)",Action|Adventure|Thriller,SVD + reranking (0.8)
+2,293,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller,SVD + reranking (0.8)
+3,1234,"Sting, The (1973)",Comedy|Crime,SVD + reranking (0.8)
+4,2944,"Dirty Dozen, The (1967)",Action|Drama|War,SVD + reranking (0.8)
+5,48516,"Departed, The (2006)",Crime|Drama|Thriller,SVD + reranking (0.8)
+6,2194,"Untouchables, The (1987)",Action|Crime|Drama,SVD + reranking (0.8)
+7,1220,"Blues Brothers, The (1980)",Action|Comedy|Musical,SVD + reranking (0.8)
+8,2115,Indiana Jones and the Temple of Doom (1984),Action|Adventure|Fantasy,SVD + reranking (0.8)
+9,48780,"Prestige, The (2006)",Drama|Mystery|Sci-Fi|Thriller,SVD + reranking (0.8)
+10,6377,Finding Nemo (2003),Adventure|Animation|Children|Comedy,SVD + reranking (0.8)
